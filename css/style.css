@@ -122,7 +122,7 @@ p {
 }
 .section-title h2 {
   margin-top:65px;
-  font-size: 25px;
+  font-size: 20px;
   letter-spacing: 2px;
   text-transform: uppercase;
 }
@@ -337,6 +337,7 @@ nav ul li a {
 
 .owl-item {
   float: left;
+
 }
 .services-block span {
   margin: 10px 0;
@@ -366,6 +367,7 @@ nav ul li a {
 }
 .services-carousel  .owl-stage-outer {
   overflow: hidden;
+
 }
 
 .services-carousel .owl-dots {
@@ -451,7 +453,11 @@ nav ul li a {
 
 .vl {
   border-right: 2px solid #ddd;
-  height: 50px;
+  height: 80px;
+}
+.vll{
+  border-left: 2px solid #ddd;
+  height: 80px;
 }
 .border{
   color:black;
@@ -481,6 +487,10 @@ border-color: black;
 .bod1{
       padding-bottom: 50px;
 
+}
+
+.social-size{
+  width: 20px;
 }
 /*-----------------------------------------------------------------------------------*/
 /*  Journal
